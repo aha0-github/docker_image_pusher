@@ -1,9 +1,9 @@
 #基础应用
-portainer/portainer
+portainer/portainer-ce
 jc21/nginx-proxy-manager
-redis
+redis:7
 redislabs/redisinsight
-bitnami/kafka
+bitnami/kafka:3.6
 provectuslabs/kafka-ui
 osixia/openldap
 osixia/phpldapadmin
