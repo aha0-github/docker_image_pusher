@@ -10,6 +10,5 @@ osixia/phpldapadmin
 #扩展应用
 wordpress
 elleflorio/svn-server
-eventstore/eventstore
 #支持指定架构
 --platform=linux/arm64 linux/amd64
