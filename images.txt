@@ -1,6 +1,15 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#基础应用
+portainer/portainer
+jc21/nginx-proxy-manager
+redis
+redislabs/redisinsight
+bitnami/kafka
+provectuslabs/kafka-ui
+osixia/openldap
+osixia/phpldapadmin
+#扩展应用
+wordpress
+elleflorio/svn-server
+eventstore/eventstore
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 linux/amd64
