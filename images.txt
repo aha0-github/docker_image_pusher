@@ -1,5 +1,6 @@
 #基础应用
 portainer/portainer-ce
+portainer/agent:2.20.3
 jc21/nginx-proxy-manager
 redis:7
 redislabs/redisinsight
@@ -10,4 +11,4 @@ osixia/phpldapadmin
 #扩展应用
 wordpress
 #支持指定架构
---platform=linux/arm64 linux/amd64
+#--platform=linux/arm64 linux/amd64
