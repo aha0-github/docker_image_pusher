@@ -1,6 +1,6 @@
 openeuler/openeuler:22.03-lts-sp2
 openeuler/openeuler:23.09
-openeuler/openeuler:24.03-lts, latest
+openeuler/openeuler:24.03-lts
 #基础应用
 portainer/portainer-ce
 portainer/agent:2.20.3
