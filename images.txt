@@ -7,6 +7,15 @@ postgres:16
 mysql:8
 redis:7
 redislabs/redisinsight
+#tb
+thingsboard/tb-node:3.7.0
+thingsboard/tb-web-ui:3.7.0
+thingsboard/tb-js-executor:3.7.0
+thingsboard/tb-http-transport:3.7.0
+thingsboard/tb-mqtt-transport:3.7.0
+thingsboard/tb-coap-transport:3.7.0
+thingsboard/tb-lwm2m-transport:3.7.0
+thingsboard/tb-snmp-transport:3.7.0
 #基础应用
 portainer/portainer-ce
 portainer/agent:2.20.3
