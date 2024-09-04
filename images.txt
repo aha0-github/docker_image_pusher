@@ -3,7 +3,7 @@ openeuler/openeuler:22.03-lts-sp2
 openeuler/openeuler:23.09
 openeuler/openeuler:24.03-lts
 #数据库
-postgres:16
+postgres:16.1
 mysql:8
 redis:7
 redislabs/redisinsight
