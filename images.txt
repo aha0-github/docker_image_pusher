@@ -39,5 +39,6 @@ eventstore/eventstore:latest
 grafana/grafana:latest
 bitnami/prometheus:latest
 wordpress
+homeassistant/home-assistant:2024.11.0b3
 #支持指定架构
 #--platform=linux/arm64 linux/amd64
