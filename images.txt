@@ -18,6 +18,7 @@ thingsboard/tb-lwm2m-transport:3.8.1
 thingsboard/tb-snmp-transport:3.8.1
 thingsboard/tb-gateway:latest
 #基础应用
+eclipse-mosquitto:2.0.20
 portainer/portainer-ce
 portainer/agent:2.20.3
 jc21/nginx-proxy-manager
