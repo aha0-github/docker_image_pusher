@@ -7,6 +7,7 @@ postgres:16.1
 mysql:8
 redis:7
 redislabs/redisinsight
+linuxserver/mariadb:10.11.10
 #tb
 thingsboard/tb-node:3.8.1
 thingsboard/tb-web-ui:3.8.1
