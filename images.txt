@@ -5,6 +5,7 @@ openeuler/openeuler:24.03-lts
 #数据库
 postgres:16.1
 mysql:8
+mysql:8.0.34
 redis:7
 redislabs/redisinsight
 #linuxserver/mariadb:10.11.10
