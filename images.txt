@@ -25,7 +25,8 @@ eclipse-mosquitto:2.0.20
 portainer/portainer-ce
 portainer/agent:2.20.3
 jc21/nginx-proxy-manager
-bitnami/kafka:3.6
+#bitnami/kafka:3.6
+apache/kafka:4.1.0
 provectuslabs/kafka-ui
 osixia/openldap
 osixia/phpldapadmin
