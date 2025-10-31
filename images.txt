@@ -45,6 +45,8 @@ wordpress
 homeassistant/home-assistant:2024.11.0b3
 causticlab/hass-configurator-docker:latest
 nodered/node-red:latest
+alphacep/kaldi-en:latest
+alphacep/kaldi-cn:latest
 #ai
 ghcr.io/coqui-ai/tts-cpu:latest
 #支持指定架构
