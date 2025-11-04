@@ -20,6 +20,10 @@ thingsboard/tb-coap-transport:3.9.0
 thingsboard/tb-lwm2m-transport:3.9.0
 thingsboard/tb-snmp-transport:3.9.0
 thingsboard/tb-gateway:3.6.3
+#Milvus
+quay.io/coreos/etcd:v3.5.18
+minio/minio:RELEASE.2024-12-18T13-15-44Z
+milvusdb/milvus:v2.6.4
 #基础应用
 eclipse-mosquitto:2.0.20
 portainer/portainer-ce
