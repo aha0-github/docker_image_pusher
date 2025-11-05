@@ -23,7 +23,7 @@ thingsboard/tb-gateway:3.6.3
 #Milvus
 quay.io/coreos/etcd:v3.5.18
 minio/minio:RELEASE.2024-12-18T13-15-44Z
-milvusdb/milvus:v2.5
+milvusdb/milvus:2.5-20251105-561b167f-amd64
 milvusdb/milvus:v2.6.4
 #Qdrant
 qdrant/qdrant:v1.15
