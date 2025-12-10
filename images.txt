@@ -29,6 +29,7 @@ milvusdb/milvus:v2.6.4
 #Qdrant
 qdrant/qdrant:v1.15
 #log
+opensearchproject/opensearch:2
 opensearchproject/opensearch:3
 graylog/graylog:7.0
 #基础应用
