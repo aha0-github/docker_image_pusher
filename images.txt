@@ -10,6 +10,7 @@ redis:7
 redislabs/redisinsight
 #linuxserver/mariadb:10.11.10
 mariadb:11.5.2
+mongo:8.2
 #tb
 thingsboard/tb-node:3.9.0
 thingsboard/tb-web-ui:3.9.0
@@ -27,6 +28,9 @@ milvusdb/milvus:2.5-20251105-561b167f-amd64
 milvusdb/milvus:v2.6.4
 #Qdrant
 qdrant/qdrant:v1.15
+#log
+opensearchproject/opensearch:3
+graylog/graylog:7.0
 #基础应用
 eclipse-mosquitto:2.0.20
 portainer/portainer-ce
