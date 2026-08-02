@@ -64,5 +64,6 @@ alphacep/kaldi-en:latest
 alphacep/kaldi-cn:latest
 #ai
 ghcr.io/coqui-ai/tts-cpu:latest
+infiniflow/ragflow:v0.26.4
 #支持指定架构
 #--platform=linux/arm64 linux/amd64
