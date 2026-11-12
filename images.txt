@@ -53,7 +53,7 @@ apache/kvrocks:2.16.0
 metabase/metabase:latest
 eventstore/eventstore:latest
 grafana/grafana:latest
-minio/minio:latest
+#minio/minio:latest
 #bitnami/prometheus:latest
 ubuntu/prometheus:latest
 wordpress
