@@ -71,5 +71,13 @@ alphacep/kaldi-cn:latest
 #ai
 ghcr.io/coqui-ai/tts-cpu:latest
 infiniflow/ragflow:v1.0.0
+infiniflow/infinity:v0.7.5-x64-v3
+serenedb/serenedb:26.07.5
+oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
+oceanbase/seekdb:latest
+pgsty/silo:RELEASE.2026-08-06T00-00-00Z
+apache/kvrocks:2.16.0
+jaegertracing/jaeger:2.19.0
+clickhouse/clickhouse-server:26.5.5.8
 #支持指定架构
 #--platform=linux/arm64 linux/amd64
