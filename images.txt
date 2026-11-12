@@ -5,12 +5,16 @@ openeuler/openeuler:24.03-lts
 #数据库
 postgres:16.1
 mysql:8
-mysql:8.0.34
+mysql:8.0.40
 redis:7
 redislabs/redisinsight
 #linuxserver/mariadb:10.11.10
 mariadb:11.5.2
 mongo:8.2
+#doc engine
+opensearchproject/opensearch:2
+opensearchproject/opensearch:3
+elasticsearch:8.11.3
 #tb
 thingsboard/tb-node:3.9.0
 thingsboard/tb-web-ui:3.9.0
@@ -29,8 +33,6 @@ milvusdb/milvus:v2.6.4
 #Qdrant
 qdrant/qdrant:v1.15
 #log
-opensearchproject/opensearch:2
-opensearchproject/opensearch:3
 graylog/graylog:7.0
 #基础应用
 eclipse-mosquitto:2.0.20
@@ -45,15 +47,13 @@ osixia/phpldapadmin
 keycloak/keycloak:25.0
 #bitnami/zookeeper:3.8.4
 zookeeper:3.8.4
-apache/dolphinscheduler-tools:3.2.2
-apache/dolphinscheduler-api:3.2.2
-apache/dolphinscheduler-alert-server:3.2.2
-apache/dolphinscheduler-master:3.2.2
-apache/dolphinscheduler-worker:3.2.2
+nats:2.14.2
+apache/kvrocks:2.16.0
 #扩展应用
 metabase/metabase:latest
 eventstore/eventstore:latest
 grafana/grafana:latest
+minio/minio:latest
 #bitnami/prometheus:latest
 ubuntu/prometheus:latest
 wordpress
@@ -62,8 +62,14 @@ causticlab/hass-configurator-docker:latest
 nodered/node-red:latest
 alphacep/kaldi-en:latest
 alphacep/kaldi-cn:latest
+#dolphinscheduler
+apache/dolphinscheduler-tools:3.2.2
+apache/dolphinscheduler-api:3.2.2
+apache/dolphinscheduler-alert-server:3.2.2
+apache/dolphinscheduler-master:3.2.2
+apache/dolphinscheduler-worker:3.2.2
 #ai
 ghcr.io/coqui-ai/tts-cpu:latest
-infiniflow/ragflow:v0.26.4
+infiniflow/ragflow:v1.0.0
 #支持指定架构
 #--platform=linux/arm64 linux/amd64
